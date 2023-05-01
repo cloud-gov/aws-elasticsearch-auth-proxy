@@ -14,7 +14,7 @@ click==7.1.2
     # via flask
 environs==9.3.0
     # via -r pip-tools/requirements.in
-flask==1.1.2
+flask==2.3.2
     # via -r pip-tools/requirements.in
 furl==2.1.0
     # via cfenv

@@ -21,7 +21,7 @@ click==7.1.2
     #   pip-tools
 environs==9.3.0
     # via -r pip-tools/../requirements.txt
-flask==1.1.2
+flask==2.3.2
     # via -r pip-tools/../requirements.txt
 furl==2.1.0
     # via
