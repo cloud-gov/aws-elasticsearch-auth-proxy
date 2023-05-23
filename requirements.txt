@@ -36,7 +36,7 @@ python-dotenv==0.15.0
     # via environs
 requests-aws4auth==1.0.1
     # via -r pip-tools/requirements.in
-requests==2.25.1
+requests==2.31.0
     # via
     #   -r pip-tools/requirements.in
     #   requests-aws4auth
