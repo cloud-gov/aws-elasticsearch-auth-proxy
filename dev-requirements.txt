@@ -70,7 +70,7 @@ six==1.15.0
     #   -r pip-tools/../requirements.txt
     #   furl
     #   orderedmultidict
-urllib3==1.26.2
+urllib3==1.26.18
     # via
     #   -r pip-tools/../requirements.txt
     #   requests
