@@ -4,7 +4,7 @@
 #
 #    ./dev update-requirements
 #
-certifi==2020.12.5
+certifi==2023.7.22
     # via requests
 cfenv==0.5.3
     # via -r pip-tools/requirements.in
@@ -14,17 +14,17 @@ click==7.1.2
     # via flask
 environs==9.3.0
     # via -r pip-tools/requirements.in
-flask==1.1.2
+flask==2.2.5
     # via -r pip-tools/requirements.in
 furl==2.1.0
     # via cfenv
-gunicorn==20.0.4
+gunicorn==22.0.0
     # via -r pip-tools/requirements.in
-idna==2.10
+idna==3.7
     # via requests
 itsdangerous==1.1.0
     # via flask
-jinja2==2.11.2
+jinja2==3.1.4
     # via flask
 markupsafe==1.1.1
     # via jinja2
@@ -36,15 +36,15 @@ python-dotenv==0.15.0
     # via environs
 requests-aws4auth==1.0.1
     # via -r pip-tools/requirements.in
-requests==2.25.1
+requests==2.31.0
     # via
     #   -r pip-tools/requirements.in
     #   requests-aws4auth
 six==1.15.0
     # via furl
-urllib3==1.26.2
+urllib3==1.26.18
     # via requests
-werkzeug==1.0.1
+werkzeug==3.0.3
     # via flask
 
 # The following packages are considered to be unsafe in a requirements file:
